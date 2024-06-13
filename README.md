@@ -28,18 +28,6 @@ I'm Antoine, a software developer with a keen interest in web fullstack developm
 
 ![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoine13330&show_icons=true&theme=radical)
 
-## 📚 Top Repositories
-
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=antoine13330&repo=repo-name&theme=radical)](https://github.com/antoine13330/repo-name)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=antoine13330&repo=repo-name&theme=radical)](https://github.com/antoine13330/repo-name)
-
-## 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title](https://link-to-your-blog-post.com)
-- [Post Title](https://link-to-your-blog-post.com)
-<!-- BLOG-POST-LIST:END -->
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
