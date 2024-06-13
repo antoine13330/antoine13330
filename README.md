@@ -9,7 +9,8 @@ I'm Antoine, a software developer with a keen interest in web fullstack developm
 
 - 🔭 I’m currently working on QWR ( a multi-api normalizer & code generator ).
 - 🌱 I’m currently trying to master Next.js
-- 👯 I’m looking to collaborate on open-source projects.
+- 👯 I’m looking to collaborate on open-source projects
+- 🏢 I'm also a freelancer so feel free to DM me about your needs
 - 💬 Ask me about web development, backend systems, or database management.
 - 📫 How to reach me: [antoinedespres13@gmail.com](mailto:antoinedespres13@gmail.com)
 
