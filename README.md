@@ -1,18 +1,7 @@
 # Hi there, I'm Antoine! 👋
-
-![GitHub followers](https://img.shields.io/github/followers/antoine13330?style=social)
-![GitHub stars](https://img.shields.io/github/stars/antoine13330?style=social)
-
 ## 🚀 About Me
 
 I'm Antoine, a software developer with a keen interest in web fullstack development. I love exploring new technologies and applying them to solve real-world problems. 
-
-- 🔭 I’m currently working on QWR ( a multi-api normalizer & code generator ).
-- 🌱 I’m currently trying to master Next.js
-- 👯 I’m looking to collaborate on open-source projects
-- 🏢 I'm also a freelancer so feel free to DM me about your needs
-- 💬 Ask me about web development, backend systems, or database management.
-- 📫 How to reach me: [antoinedespres13@gmail.com](mailto:antoinedespres13@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
