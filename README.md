@@ -34,10 +34,6 @@ I'm Antoine, a software developer with a keen interest in web fullstack developm
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 
-## 📈 GitHub Stats
-
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoine13330&show_icons=true&theme=radical)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
